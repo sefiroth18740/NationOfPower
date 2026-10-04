@@ -1,0 +1,4 @@
+Nations of Power - versión instalable
+1. Sube esta carpeta a un hosting HTTPS (GitHub Pages, Netlify, Cloudflare Pages).
+2. Abre la URL en Chrome/Edge/Safari y elige 'Instalar app' o 'Añadir a pantalla de inicio'.
+3. Funciona sin conexión en modo solo. El modo online solo está disponible en la versión publicada en Claude.
